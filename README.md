@@ -53,7 +53,7 @@ book.html
     .book-cover {
       width: 400px;
       height: 600px;
-      background-image: url('cover page.jpg');
+      background-image: url('cover page 1.jpg');
       background-size: cover;
       background-position: center;
       color: white;
@@ -118,6 +118,7 @@ book.html
   </div>
 </body>
 </html>
+
 
 ```
 
